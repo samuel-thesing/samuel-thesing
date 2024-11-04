@@ -14,6 +14,7 @@
 - [x] Python
 - [x] Javascript
 - [x] Java
+- [ ] Rust
 - [ ] Haskell
 - [ ] Lisp
 - [ ] Dart
